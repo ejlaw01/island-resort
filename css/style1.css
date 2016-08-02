@@ -3,7 +3,7 @@ body {
 }
 
 img {
-  height: 600px;
+  height: 450px;
   width: auto;
   display: block;
   margin-left: auto;
@@ -34,6 +34,11 @@ ul {
   font-family: sans-serif;
   font-weight: bolder;
   line-height: 50px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
 }
 
 a:visited {
@@ -43,4 +48,8 @@ a:visited {
 h3 {
   text-align: center;
   font-size: 20px;
+}
+
+li {
+  display: inline;
 }
