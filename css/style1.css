@@ -1,0 +1,19 @@
+body {
+  background-color: ivory;
+}
+
+img {
+  height: 600px;
+  width: auto;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 25px;
+}
